@@ -1,0 +1,9 @@
+user_id,role,login_hour,location,device,files_accessed,data_mb
+U01,Admin,10,Office,Laptop,15,200
+U02,Employee,11,Office,Desktop,20,150
+U03,Employee,2,Remote,Mobile,180,3500
+U04,Admin,9,Office,Laptop,12,180
+U05,Employee,14,Office,Laptop,18,220
+U06,Employee,1,Remote,Unknown,210,4200
+U07,Admin,16,Office,Desktop,10,160
+U08,Employee,3,Remote,Mobile,190,3800
